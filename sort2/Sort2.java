@@ -16,6 +16,7 @@ public class Sort2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Нужно исправить!!!!
         int[] i = {5,4,6,7,10,8,9,3,1,2};
         
         for (int r=0; r<i.length;r++){
