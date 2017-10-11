@@ -2,7 +2,7 @@ package ShS;
 
 public class shs {
 	public static void main(String[] args) {
-		int[] arr = {2,7,3,9,5,10,8};
+		int[] arr = {2,7,3,9,5,1,10,8,4,100};
 		int left = 1;
 		int right = arr.length;
 		
@@ -23,6 +23,7 @@ public class shs {
 					arr[i] = b;
 				}
 			}
+			left=0;
 			left++;
 		}
 		
